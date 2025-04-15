@@ -25,7 +25,7 @@ Um painel de marketing digital moderno com foco em UX, construído com Next.js e
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/cabraldasilvac/spotmkt-dashboard.git
+git clone  https://github.com/cabraldasilvac/dashboard-marketing.git
 ```
 
 2. Instale as dependências
