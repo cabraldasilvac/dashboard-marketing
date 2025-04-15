@@ -1,6 +1,8 @@
 {
   "name": "spotmkt-dashboard",
   "version": "0.1.0",
+  "description": "Painel de marketing digital responsivo",
+  "author": "Wanderley Cabral",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
